@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Bleach",
+        "jp_title": "Bleach",
+        "studio": "Aniplex",
+        "year": 2009,
+        "image": "/images/showimage/sternritter.jpg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "The Day I bcame a shinigami",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "The Shinigami's work",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 2,
+        "title": "Naruto: Shippudden",
+        "jp_title": "Naruto: Shippudden",
+        "studio": "Gonzo",
+        "year": 2011,
+        "image": "/images/showimage/Naruto-Shippudden-1.jpg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "Hidden Leaf Village",
+                "ep_type": "Filler"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Nine-tailed fox",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 3,
+        "title": "Angel Beats",
+        "jp_title": "Angel Beats",
+        "studio": "Kino Studios",
+        "year": 2013,
+        "image": "/images/showimage/angel-beats.jpg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "Beat of the heart",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Killer beats!",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 4,
+        "title": "Claymore",
+        "jp_title": "Claymore",
+        "studio": "Mappa",
+        "year": 2018,
+        "image": "/images/showimage/claymore.jpg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "The Youma",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Ice and Fire",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 5,
+        "title": "My Hero Academia",
+        "jp_title": "Boku no hero academia",
+        "studio": "Mappa",
+        "year": 2020,
+        "image": "/images/showimage/bokunohero.jpeg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "All Might!",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Detroit Smash, Deku takes all",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 6,
+        "title": "Jujutsu Kaisen",
+        "jp_title": "Jujutsu Kaisen",
+        "studio": "Ufotable",
+        "year": 2021,
+        "image": "/images/showimage/jujutsu.jpg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "Sukuna's fingers",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Sorcery Academy Jujutsu Masters",
+                "ep_type":"Filler"
+            }
+        ]
+
+    },
+
+    {
+        "id": 7,
+        "title": "HunterXHunter",
+        "jp_title": "HunterXHunter",
+        "studio": "Mappa",
+        "year": 2011,
+        "image": "/images/showimage/hunterxhunter.jpg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "Hunter Exams",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Kurapika's Revenge",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 8,
+        "title": "Fullmetal Alchemist",
+        "jp_title": "Fullmetal Alchemist",
+        "studio": "Aniplex",
+        "year": 2006,
+        "image": "/images/showimage/fullmetal.webp",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "Eric and Edward, the Alphonse brothers",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Transmutation",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 9,
+        "title": "Yugioh! Duel Monsters",
+        "jp_title": "Yugioh! Duel Monsters",
+        "studio": "Konami",
+        "year": 2000,
+        "image": "/images/showimage/yamiyugi.jpg",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "It's time to duel!",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "Millenium items",
+                "ep_type":"Canon"
+            }
+        ]
+
+    },
+
+    {
+        "id": 10,
+        "title": "Attack on Titan",
+        "jp_title": "Shingeki no kyojin",
+        "studio": "Mappa",
+        "year": 2019,
+        "image": "/images/showimage/attack-on-titan.webp",
+
+        "episodes": [
+            {
+                "ep": 1,
+                "ep_title": "To you, in 2000 years: The Fall of Shiganshina, Part 1",
+                "ep_type": "Canon"
+            },
+
+            {
+                "ep": 2,
+                "ep_title": "That day: The Fall of Shiganshina, Part 2",
+                "ep_type":"Canon"
+            }
+        ]
+
+    }
+
+]
